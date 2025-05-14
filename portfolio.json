@@ -1,0 +1,29 @@
+{
+    "portfolio": [
+        {
+            "APCO/DeZurik": {
+                "Tipes": 
+                    [
+                        {
+                            "Air/Vacuum release valves": "These are small but critical valves installed at high points in pipelines to automatically release trapped air and admit air during draining, preventing vacuum collapse. APCO (DeZurik) is a leader in this domain with many models.Types include Air Release valves (release small pockets of air under pressure), Air/Vacuum valves (allow large volume air out during fill and in during drain), and Combination air valves which do both functions in one body. For sewage applications, APCO has designs to handle sewage without clogging (often with kinetic floats and special coatings). Essentially, these valves protect pipelines and maintain efficiency by removing entrained air (air pockets can constrict flow and cause surges). APCO's combination air valves (like AVC series) are installed at all high points of a system to both vent and protect against vacuum. They build valves up to large sizes (6” or more for big mains). They are known for durable designs that can handle the rigors of both clean water and wastewater (sewage air valves have anti-fouling features).",
+                            "Use Case": "Every long water transmission main, force main, or effluent line uses combination air valves at high points and periodic intervals. Wastewater force mains particularly need ARVs to avoid air locks that impede flow. APCO valves are installed in manholes or vaults along these pipelines. They’re also used on pump discharge headers to vent air upon pump start and avoid air-related surges"
+                        },
+                        {
+                            "Check Valves": "APCO produces several types of check valves to prevent reverse flow in pumping systems. Notably: - Swing Check valves (including cushioned swing check for slamming prevention). - Tilting Disc check valves. - Silent check valves (like spring-assisted center guided valves). - They may also have specialty ones like Duckbill check valves (though those are usually Tideflex, not sure if APCO covers that or if that’s someone else under DeZurik). But since they’re under DeZurik now, likely focusing on APCO’s traditional slanting disc check valves used in pump stations for reliable backflow prevention and surge control.",
+                            "Use Case": "At pump discharge in lift stations, water booster stations, well pumps – an APCO check prevents reverse 29 flow when pumps stop. Their robust designs handle repeated cycling. For example, an APCO swing check with cushion on a high-lift pump can prevent slam and protect the pump from backspin"
+                        },
+                        {
+                            "AWWA Ball": "AWWA Ball & Cone Valves: - AWWA Ball Valves – These are large diameter ball valves used in pump control and shutoff, typically up to 48” or more. They are usually metal seated, high-pressure rated for pump discharge isolation or flow control in water plants. APCO presumably has an offering here (though DeZurik also has their PEF ball valve).",
+                            "Use Case": "Could be used as pump control valves (slowly opening/closing instead of a butterfly to handle higher pressure and avoid cavitation) or isolation valves on large pump lines. Sometimes preferred over butterfly valves for tight shutoff and longevity in large sizes"
+                        },
+                        {
+                            "Cone Valves": "A cone valve (also known as a plug or Howell-Bunger valve in some contexts when used as discharge valve) here likely means the large cone discharge control valves used in dams and pump stations. These AWWA cone valves are excellent for throttling high flows at high pressures with low cavitation damage. They have a cone that moves to open a large annular flow path. They are often used as pump control valves or flow control valves in large water applications, including at pump station discharges where a rapid opening and closing control is needed with minimal slam, or at reservoir outlets to modulate flow. APCO being cited for these suggests they have designs meeting AWWA C507 (ball valves) and maybe similar for cone valves, likely up to very large sizes (24”–60”).",
+                            "Use Case": "Possibly at dam outlets or water treatment plant high-flow control (they can throttle without cavitation at high delta-P, ideal for releasing water from reservoirs). Or used in powerhouse bypass systems, etc. In pump systems, a cone valve can be used as a pump bypass control or main flow control where precise throttling is needed"
+                        }
+                    ],
+                "Description": "APCO is a brand under DeZurik that specializes in specialty valves for water and wastewater systems, particularly air valves and check valves, as well as cone valves and ball valves for pump control."
+            }
+        }
+    ]
+}
+                
