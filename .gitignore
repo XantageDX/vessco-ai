@@ -4,3 +4,4 @@ uploaded_documents/
 *.docx
 chroma_db/
 *.pdf
+vessco_debug.log

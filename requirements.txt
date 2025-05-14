@@ -7,3 +7,4 @@ boto3>=1.29.0
 chromadb>=0.4.22
 pypdf>=4.0.0
 docx2txt>=0.8
+regex>=2022.10.31
