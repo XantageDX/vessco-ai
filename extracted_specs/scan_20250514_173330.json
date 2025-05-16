@@ -1,0 +1,702 @@
+{
+  "document_id": "scan_20250514_173330",
+  "extraction_date": "2025-05-14T17:33:30.424192",
+  "specifications": [
+    {
+      "item_id": "Item_002",
+      "parameter": "Compressor manufacturer",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "85da2403-d3a8-4aab-978d-381d70199b6a"
+    },
+    {
+      "item_id": "Item_002",
+      "parameter": "Compressor type and model",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "b83545f6-d090-4546-92a2-1c98336a9040"
+    },
+    {
+      "item_id": "Item_002",
+      "parameter": "Compressor rotative speed",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "flags": [
+        {
+          "issue_type": "MISSING_UNIT",
+          "confidence": 1,
+          "note": "The parameter 'Compressor rotative speed' is likely to require a unit of measurement, such as revolutions per minute (RPM) or revolutions per second (RPS), but no unit is provided."
+        }
+      ],
+      "id": "fc3e8e37-3966-4e7a-bdc8-b5f232882f8d"
+    },
+    {
+      "item_id": "Item_002",
+      "parameter": "Compressor dimensions",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "flags": [
+        {
+          "issue_type": "MISSING_UNIT",
+          "confidence": 1,
+          "note": "The parameter 'Compressor dimensions' is likely to require units of measurement, such as inches, feet, or meters, but no unit is provided."
+        }
+      ],
+      "id": "f56545a9-b636-49b5-a627-373000b39438"
+    },
+    {
+      "item_id": "Item_002",
+      "parameter": "Compressor weight including motor",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "flags": [
+        {
+          "issue_type": "MISSING_UNIT",
+          "confidence": 1,
+          "note": "The parameter 'Compressor weight including motor' is likely to require a unit of measurement, such as pounds or kilograms, but no unit is provided."
+        }
+      ],
+      "id": "6042628b-2555-48b3-9486-cf9b9edab3c6"
+    },
+    {
+      "item_id": "Item_002",
+      "parameter": "Compressor performance data",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "4e9544d6-ffaf-4214-b06f-7976b3434f52"
+    },
+    {
+      "item_id": "Item_002",
+      "parameter": "Compressor bearing data",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "bd12ae52-7edb-4129-aa71-fad59db2d04e"
+    },
+    {
+      "item_id": "Item_002",
+      "parameter": "Compressor separator details",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "707b3506-c59d-4777-986e-c954c9c24815"
+    },
+    {
+      "item_id": "Item_002",
+      "parameter": "Compressor filter details",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "1984267f-698a-439c-9b1d-c70d6c7aad2c"
+    },
+    {
+      "item_id": "Item_002",
+      "parameter": "Compressor accessory details",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "0e1a743b-930c-4919-ade2-c5c10b60e26e"
+    },
+    {
+      "item_id": "Item_002",
+      "parameter": "Compressor piping schematic",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "84647d11-19d8-44ca-a917-2b75e983afb3"
+    },
+    {
+      "item_id": "Item_002",
+      "parameter": "Compressor control equipment",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "2c6a024e-1d06-4896-9859-15e5a1499b85"
+    },
+    {
+      "item_id": "Item_002",
+      "parameter": "Compressor sequence of operation",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "573b5687-7a80-486f-a143-a6b9e2e5df27"
+    },
+    {
+      "item_id": "Item_002_2",
+      "parameter": "Motor manufacturer",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "c3d67187-144a-41ab-98fe-87c8e242df07"
+    },
+    {
+      "item_id": "Item_002_2",
+      "parameter": "Motor type and model",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "ec3114d8-56ca-41f9-8f5f-a6fbd07fec64"
+    },
+    {
+      "item_id": "Item_002_2",
+      "parameter": "Motor horsepower rating",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "flags": [
+        {
+          "issue_type": "MISSING_UNIT",
+          "confidence": 1,
+          "note": "The parameter 'Motor horsepower rating' is likely to require a unit of measurement, such as horsepower (HP), but no unit is provided."
+        }
+      ],
+      "id": "c7d12991-6376-4202-b6c3-408ffff275aa"
+    },
+    {
+      "item_id": "Item_002_2",
+      "parameter": "Motor service factor",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "33c67868-6e73-4618-afe7-614c38b2ba8f"
+    },
+    {
+      "item_id": "Item_002_2",
+      "parameter": "Motor insulation class",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "5fd8e9c8-1dee-4bd2-808e-da7f6d70cd67"
+    },
+    {
+      "item_id": "Item_002_2",
+      "parameter": "Motor temperature rise full load",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "flags": [
+        {
+          "issue_type": "MISSING_UNIT",
+          "confidence": 1,
+          "note": "The parameter 'Motor temperature rise full load' is likely to require a unit of measurement, such as degrees Fahrenheit (\u00b0F) or degrees Celsius (\u00b0C), but no unit is provided."
+        }
+      ],
+      "id": "cf03160a-18de-4eb8-a5ea-f337b5f8e6c0"
+    },
+    {
+      "item_id": "Item_002_2",
+      "parameter": "Motor rotative speed",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "flags": [
+        {
+          "issue_type": "MISSING_UNIT",
+          "confidence": 1,
+          "note": "The parameter 'Motor rotative speed' is likely to require a unit of measurement, such as revolutions per minute (RPM) or revolutions per second (RPS), but no unit is provided."
+        }
+      ],
+      "id": "3de03208-73d6-4389-a1dc-626afa72c79c"
+    },
+    {
+      "item_id": "Item_002_3",
+      "parameter": "Particulate and Coalescing Filter manufacturer",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "11b643b0-787d-43cc-93dc-328b93c07631"
+    },
+    {
+      "item_id": "Item_002_3",
+      "parameter": "Particulate and Coalescing Filter type and model",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "5d63f473-8331-437e-9f96-d8ac86bf3bc9"
+    },
+    {
+      "item_id": "Item_002_3",
+      "parameter": "Particulate and Coalescing Filter pressure drop",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq00z8p5m/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "flags": [
+        {
+          "issue_type": "MISSING_UNIT",
+          "confidence": 1,
+          "note": "The parameter 'Particulate and Coalescing Filter pressure drop' is likely to require a unit of measurement, such as pounds per square inch (PSI) or inches of water gauge (in.wg), but no unit is provided."
+        }
+      ],
+      "id": "3b152d77-06b6-42d0-b015-5c3d6f684381"
+    },
+    {
+      "item_id": "Item_003",
+      "parameter": "Compressor manufacturer",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "512239bb-1995-48df-8ef1-ee5bd63f05b8"
+    },
+    {
+      "item_id": "Item_003",
+      "parameter": "Compressor type and model",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "a270cccc-b384-47fe-9692-e2ef9fd70f7a"
+    },
+    {
+      "item_id": "Item_003",
+      "parameter": "Compressor rotative speed",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "flags": [
+        {
+          "issue_type": "MISSING_UNIT",
+          "confidence": 1,
+          "note": "The parameter 'Compressor rotative speed' is likely to have a unit such as 'rpm' or 'rev/min', but no unit is provided."
+        }
+      ],
+      "id": "2747ddb9-ba41-4380-8a64-736c44a399cb"
+    },
+    {
+      "item_id": "Item_003",
+      "parameter": "Compressor dimensions",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "flags": [
+        {
+          "issue_type": "MISSING_UNIT",
+          "confidence": 1,
+          "note": "The parameter 'Compressor dimensions' is likely to have a unit such as 'inches', 'feet', or 'meters', but no unit is provided."
+        }
+      ],
+      "id": "2d86b715-6f47-4821-8f63-a1e17ef5d343"
+    },
+    {
+      "item_id": "Item_003",
+      "parameter": "Compressor weight including motor",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "flags": [
+        {
+          "issue_type": "MISSING_UNIT",
+          "confidence": 1,
+          "note": "The parameter 'Compressor weight including motor' is likely to have a unit such as 'pounds' or 'kilograms', but no unit is provided."
+        }
+      ],
+      "id": "6113b528-1a84-4cc5-a4d3-053a7cc5eca0"
+    },
+    {
+      "item_id": "Item_003",
+      "parameter": "Compressor performance data",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "db8bdbd6-7cf9-42c4-870d-e4cec6030dcf"
+    },
+    {
+      "item_id": "Item_003",
+      "parameter": "Compressor bearing data",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "9894d289-73f1-47de-99d7-688180e7fb7a"
+    },
+    {
+      "item_id": "Item_003",
+      "parameter": "Compressor separator details",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "c4df14fc-5cb0-4435-9304-14aa23ecb63a"
+    },
+    {
+      "item_id": "Item_003",
+      "parameter": "Compressor filter details",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "37bacd68-4645-4a11-ba41-13be2814bb11"
+    },
+    {
+      "item_id": "Item_003",
+      "parameter": "Compressor accessory details",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "eaf25c5b-0e88-4116-a806-e73684350d63"
+    },
+    {
+      "item_id": "Item_003",
+      "parameter": "Compressor piping schematic",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "73c10dda-c07b-4efb-8930-c334ab99a0d7"
+    },
+    {
+      "item_id": "Item_003",
+      "parameter": "Compressor control equipment",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "de29caa3-2ac1-4ecf-85bc-e264c89fc428"
+    },
+    {
+      "item_id": "Item_003",
+      "parameter": "Compressor sequence of operation",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "231dad86-61c7-4d0e-b26d-c2c96e94d1a5"
+    },
+    {
+      "item_id": "Item_003_2",
+      "parameter": "Motor manufacturer",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "8cc180b1-ad48-49e3-b6d2-18c5e8b63b71"
+    },
+    {
+      "item_id": "Item_003_2",
+      "parameter": "Motor type and model",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "08db610f-cffe-4ecd-bb00-16f43a7d007e"
+    },
+    {
+      "item_id": "Item_003_2",
+      "parameter": "Motor horsepower rating",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "flags": [
+        {
+          "issue_type": "MISSING_UNIT",
+          "confidence": 1,
+          "note": "The parameter 'Motor horsepower rating' is likely to have a unit such as 'hp', but no unit is provided."
+        }
+      ],
+      "id": "7bcbeeb7-d42a-4761-b3e5-531f56b4d830"
+    },
+    {
+      "item_id": "Item_003_2",
+      "parameter": "Motor service factor",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "da3d6ed6-25e6-42ca-9ffd-e1a64acfcecf"
+    },
+    {
+      "item_id": "Item_003_2",
+      "parameter": "Motor insulation class",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "dbbf7929-6704-44ea-95b6-c1bea14ebf18"
+    },
+    {
+      "item_id": "Item_003_2",
+      "parameter": "Motor temperature rise full load",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "flags": [
+        {
+          "issue_type": "MISSING_UNIT",
+          "confidence": 1,
+          "note": "The parameter 'Motor temperature rise full load' is likely to have a unit such as 'degrees Celsius' or 'degrees Fahrenheit', but no unit is provided."
+        }
+      ],
+      "id": "d3775b2c-c0bd-46c6-a4d7-5c61b6b3b5bb"
+    },
+    {
+      "item_id": "Item_003_2",
+      "parameter": "Motor rotative speed",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "flags": [
+        {
+          "issue_type": "MISSING_UNIT",
+          "confidence": 1,
+          "note": "The parameter 'Motor rotative speed' is likely to have a unit such as 'rpm' or 'rev/min', but no unit is provided."
+        }
+      ],
+      "id": "a802c13f-353b-46d0-a0e8-ca546e9eed8d"
+    },
+    {
+      "item_id": "Item_003_3",
+      "parameter": "Particulate and Coalescing Filter manufacturer",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "35684339-813a-406f-ba5d-9bca501388d6"
+    },
+    {
+      "item_id": "Item_003_3",
+      "parameter": "Particulate and Coalescing Filter type and model",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "id": "4621a4e1-5a50-4224-8402-57ebe277c5a9"
+    },
+    {
+      "item_id": "Item_003_3",
+      "parameter": "Particulate and Coalescing Filter pressure drop",
+      "value": null,
+      "unit": null,
+      "constraint_type": "exact",
+      "note": "",
+      "source_document": "/var/folders/yy/4c10fzsd3fz2yjz86l23wg8w0000gn/T/tmpq007l8gp/Grand Ledge Division 11 - Equipment.pdf",
+      "page_number": 0,
+      "header": "5. Detailed specifications and data including the following: ",
+      "header_path": "CITY OF GRAND LEDGE AEROBIC DIGESTER AERATION AND MIXING SYSTEM  > 5. Detailed specifications and data including the following: ",
+      "flags": [
+        {
+          "issue_type": "MISSING_UNIT",
+          "confidence": 1,
+          "note": "The parameter 'Particulate and Coalescing Filter pressure drop' is likely to have a unit such as 'psi' or 'kPa', but no unit is provided."
+        }
+      ],
+      "id": "ce560c25-596d-40c1-9588-284daf2327bd"
+    }
+  ]
+}
